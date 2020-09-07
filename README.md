@@ -8,7 +8,7 @@ The type of challenges one could expect from an interview.
 * Example: 'node codingChallenges.js'.
 * Bare in mind that this needs to be typed within the command line interface/terminal.
 
-### expected output:
+### Expected output:
 
 * Capitalize Letters of a string:
 <img src="/images/capitalizeLetters.JPG" alt="challenge code output"/>

@@ -8,4 +8,6 @@ The type of challenges one could expect from interviews.
 * Example: 'node codingChallenges.js'.
 * Bare in mind that this needs to be typed within the command line interface/terminal.
 
+### expected output:
+
 Happy coding :sunglasses:

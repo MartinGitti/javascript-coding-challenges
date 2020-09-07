@@ -1,5 +1,5 @@
 # javascript-coding-challenges
-The type of challenges one could expect from interviews.
+The type of challenges one could expect from an interview.
 
 ## Please note:
 
@@ -9,5 +9,7 @@ The type of challenges one could expect from interviews.
 * Bare in mind that this needs to be typed within the command line interface/terminal.
 
 ### expected output:
+
+<img="/images/Capture.JPG" alt="challenge code output">
 
 Happy coding :sunglasses:

@@ -10,6 +10,6 @@ The type of challenges one could expect from an interview.
 
 ### expected output:
 
-<img="/images/Capture.JPG" alt="challenge code output">
+<img="/images/fizzBuzz.JPG" alt="challenge code output">
 
 Happy coding :sunglasses:

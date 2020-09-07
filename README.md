@@ -10,6 +10,12 @@ The type of challenges one could expect from an interview.
 
 ### expected output:
 
+<img src="/images/capitalizeLetters.JPG" alt="challenge code output"/>
 <img src="/images/fizzBuzz.JPG" alt="challenge code output"/>
+<img src="/images/fizzBuzz2.JPG" alt="challenge code output"/>
+<img src="/images/isPalindrome.JPG" alt="challenge code output"/>
+<img src="/images/maxCharacter.JPG" alt="challenge code output"/>
+<img src="/images/reverseInteger.JPG" alt="challenge code output"/>
+<img src="/images/reverseString.JPG" alt="challenge code output"/>
 
 Happy coding :sunglasses:

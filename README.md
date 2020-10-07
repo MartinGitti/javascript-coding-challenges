@@ -46,7 +46,6 @@ The type of challenges one could expect from an interview.
 <p>To run the code in a Text Editor, run the code in the terminal or command prompt.</p>
 <p>In order to run and test code in the terminal, typer "node 'filename that you want to run/test'."</p>
 <p>Please feel free to make use of the code.</p>
+<hr>
 
 <spam>Happy Coding :sunglasses:</span>
-
-Happy coding :sunglasses:
